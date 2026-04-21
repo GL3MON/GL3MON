@@ -15,7 +15,7 @@ Let's connect and collaborate on some awesome projects! 💻🌟
 
 ## 🔧 Currently Crafting
 
-- Researching about LLM-Systems and improving performance Reinforcement Learning in LLMs.
+- Researching about LLM-Systems, optimization of LLM inference and training and improving performance Reinforcement Learning in LLMs.
 - Building a million parameter LLM model with state of the art architecture with custom Cuda kernels.
 
 Feel free to explore my repos, leave a star ⭐ if you like what you see, and don't hesitate to reach out if you want to collaborate or just chat about code and coffee!
